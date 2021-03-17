@@ -36,7 +36,6 @@ O projeto foi desenvolvido durante o Ignite sendo elaborado pela Instituição e
 ## :pushpin: Tabela de Conteúdo
 
 * [Tecnologias](#computer-tecnologias)
-* [Funcionalidades](#rocket-funcionalidades)
 * [Rodando projeto na sua máquina](#construction_worker-como-rodar)
 
 * [Licença](#memo-licença)
