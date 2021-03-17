@@ -1,4 +1,4 @@
-import React, { useState, useContext } from 'react';
+import React, { useState } from 'react';
 
 import Modal from 'react-modal';
 import incomeImg from '../../assets/income.svg';
