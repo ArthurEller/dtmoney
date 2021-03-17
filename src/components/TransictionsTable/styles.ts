@@ -34,9 +34,6 @@ export const Container = styled.div`
                 color: var(--red);
             }
 
-            &:hover {
-                translateY: 
-            }
         }
     }
 

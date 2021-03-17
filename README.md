@@ -1,46 +1,90 @@
-# Getting Started with Create React App
+<h2 align="center">
+  <img src="https://img.shields.io/badge/dt.money-blueblack?color=blue&style=for-the-badge" alt="Nome da aplicação" />
+  <img src="https://img.shields.io/badge/Front End%3F-yes-blueblack?color=blue&style=for-the-badge" alt="Front-End Yes" />
+  <img src="https://img.shields.io/github/license/WorkEasy/WorkEasy?color=black&style=for-the-badge" alt="License" />
+</h2>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+<p align="center">
+   <img src="./src/assets/logo.svg" alt="dt money" width="420"/>
+</p>
 
-### `yarn start`
+#### ✅ Aplicação Finalizada!
+|        Etapas         |
+|-----------------------|
+|Estrura da aplicação ✅| 
+|Componentização      ✅| 
+|Consumindo API       ✅|
+|Modal & Forms        ✅|
+|Sexta                ✅|
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## 📖 Sobre 
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+O dtmoney foi desenvolvido para ter uma educação financeira melhor, sendo possível registrar o nosso fluxo de caixa mensal. 
 
-### `yarn test`
+O projeto foi desenvolvido durante o Ignite sendo elaborado pela Instituição educacional [Rocketseat](https://github.com/Rocketseat).
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `yarn build`
+<div align="center">
+   <sub>Desenvolvido por 
+    <a href="https://github.com/ArthurHMES">Arthur Eller</a>, sobre o auxílio do instrutor 
+    <a href="https://github.com/diego3g">Diego Fernandes.</a>
+  </sub>
+</div>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## :pushpin: Tabela de Conteúdo
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+* [Tecnologias](#computer-tecnologias)
+* [Funcionalidades](#rocket-funcionalidades)
+* [Rodando projeto na sua máquina](#construction_worker-como-rodar)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+* [Licença](#memo-licença)
 
-### `yarn eject`
+### Layout
+Preview da aplicação
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+|  |  |
+|----------|----------|
+| ![example](./src/assets/pre01.png) |  ![example](./src/assets/Previews/pre02.png) |
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## :computer: Tecnologias
+Durante o projeto ultilizei as seguintes tecnologias:
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+* [Typescript](https://www.typescriptlang.org/)
+* [React](https://reactjs.org/)
+* [React Context API](https://pt-br.reactjs.org/docs/context.html)
+* [Styled Components](https://styled-components.com/)
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+# :construction_worker: Como rodar
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```bash
+# Clone o Repositorio
+$ git clone https://github.com/ArthurHMES/dtmoney.git
+
+```
+### 💻 Inicializando o projeto!
+
+```bash
+# Instale as depedencias
+$ yarn install
+
+# Rode a aplicação
+$ yarn dev
+
+```
+Acesse: http://localhost:3000/ para ver o resultado
+
+### 🌐 Netlify 
+Acesse: https://dtmoney.netlify.app/
+
+# :memo: Licença
+
+Lançado em 2021 :memo: Licença
+Esse projeto esta sobre [MIT license](./LICENSE).
+
+<h4 align="center">
+    Feito com 💜 by <a href="https://www.linkedin.com/in/arthur-eller/" target="_blank">Arthur Eller </a>
+</h4>
