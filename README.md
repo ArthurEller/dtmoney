@@ -7,7 +7,7 @@
 
 
 <p align="center">
-   <img src="./src/assets/logo.svg" alt="dt money" width="420"/>
+   <img src="./src/assets/logo_black.svg" alt="dt money" width="420"/>
 </p>
 
 #### ✅ Aplicação Finalizada!
@@ -45,7 +45,7 @@ Preview da aplicação
 
 |  |  |
 |----------|----------|
-| ![example](./src/assets/pre01.png) |  ![example](./src/assets/Previews/pre02.png) |
+| ![example](./src/assets/pre01.png) | 
 
 
 ## :computer: Tecnologias
