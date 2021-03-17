@@ -17,7 +17,7 @@
 |Componentização      ✅| 
 |Consumindo API       ✅|
 |Modal & Forms        ✅|
-|Sexta                ✅|
+|Criação de hooks     ✅|
 
 ## 📖 Sobre 
 
