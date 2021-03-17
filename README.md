@@ -76,9 +76,6 @@ $ yarn dev
 ```
 Acesse: http://localhost:3000/ para ver o resultado
 
-### 🌐 Netlify 
-Acesse: https://dtmoney.netlify.app/
-
 # :memo: Licença
 
 Lançado em 2021 :memo: Licença
